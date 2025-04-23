@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.header_background {
+    background-image: url('https://t3.ftcdn.net/jpg/04/36/77/74/360_F_436777481_3Nk1sGJwa9UaYtJZ8dzeHVZrV4j0ACo3.jpg');
+    background-size: cover;
+    width: 100%;
+
+}
+
+#custom_nav_link_1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#custom_nav_link_2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#custom_nav_link_3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#custom_nav_link_4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+
+.cafe_logo {
+    height: 50px;
+    width: 160px;
+}
+
+.banner-container {
+    color: white;
+    font-size: 30px;
+    font-family: "Lucida Handwriting";
+}
+
+.header_button {
+    border-width: 2px;
+    border-radius: 3px;
+
+    color: white;
+    border-color: white;
+}
+
+.menu-background {
+    background-color: #4e4466;
+    background-size: cover;
+
+}
+
+.menu-para {
+    color: white;
+    font-family: "roboto";
+    font-size: 30px;
+    font-style: italic;
+}
+
+.menu-head {
+    color: white;
+    font-family: "roboto";
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.hr-line {
+    width: 80px;
+    background-color: white;
+}
+
+.sec-menu {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.location-bg {
+    background-color: #4e4466;
+    background-size: cover;
+}
+
+.location {
+    background-color: #bd6477;
+    background-size: cover;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+#font-1 {
+    font-size: 80px;
+    margin: 30px;
+}
+
+.hours {
+    color: white;
+    font-size: 20px;
+    font-family: "roboto";
+    font-style: italic;
+    text-align: center;
+}
+
+.exploremenu {
+    background-color: #4e4466;
+    background-size: cover;
+
+}
+
+.arrow {
+    font-size: 20px;
+}
+
+.menu-img {
+    height: 200px;
+    width: 290px;
+}
+
+.follow {
+    background-color: white;
+    background-size: cover;
+    height: 50vh;
+    text-align: center;
+
+}
+
+.follow-us-section-heading {
+
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+#icon2 {
+    font-size: 50px;
+    padding: 20px;
+}
+
+#icon3 {
+    font-size: 50px;
+    padding: 20px;
+}
+
+#icon4 {
+    font-size: 50px;
+    padding: 20px;
+}
+
+.hr-line2 {
+    width: 50%;
+    background-color: #141011;
+}
+
+.footer {
+    background-image: radial-gradient(#111636, #020626);
+    background-size: cover;
+
+
+}
+
+.footerh {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bolder;
+    text-align: center;
+}
+
+.footerl {
+    list-style-type: none;
+
+}
+
+.listli {
+    font-size: 20px;
+}
+
+.footerline {
+    width: 100%;
+    background-color: white;
+}
